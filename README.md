@@ -7,6 +7,7 @@ The libraries used in the project are :
     4:numpy
     5:easyImap
     6:email services
+    7:SmtpLib
     
 This basically takes email address (of the reciever), Subject of mail and content of mail and with the help of python libraries it makes very easy to send mails by voice commands only.
 
